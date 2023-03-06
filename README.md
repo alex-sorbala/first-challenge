@@ -1,4 +1,5 @@
 # Homework Challenge 01
+[License](LICENSE)
 
 This repository contains the refactored code for the first homework challenge and for the [demo site](https://alex-sorbala.github.io/first-challenge/).
 
